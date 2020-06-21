@@ -26,7 +26,7 @@
 - Clarifique o escopo das suas tarefas  
 - Deixe explícito e combinado a definição de pronto
 - Trabalhe de forma iterativa e incremental  
-- se comunique, esteja informado, saiba negociar
-- utilize ferramentas de gerenciamento de tarefas  
+- Se comunique, esteja informado, saiba negociar
+- Utilize ferramentas de gerenciamento de tarefas  
 
 
