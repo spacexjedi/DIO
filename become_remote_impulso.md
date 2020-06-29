@@ -49,9 +49,21 @@
 - Se faça presente no ambiente de trabalho [ps: isso não significa ser chato]   
 - Responda mensagens, avise quando for sair, avise o que está fazendo  
 - Fale, pergunte, comunique  
-- Não saia quando a conversa for off-tpic
+- Não saia quando a conversa for off-topic
 - Seja empático, solidário e encorajador  
 - Agradeça, seja consistente e faça as pessoas se sentirem bem  
+- Luz, ar e ergonomia  
+- Tenha uma vida equilibrado  
+- Meça seus resultados de forma clara os seus resultados, não pule refeições e horários de descansos  
+- Pratique exercício físico e cuidado com a dieta  
+- Higiene básica  
+- Não use drogas ou medicamentos[sem receita]  
+- Selecione o que irá fazer  
+- Não se distraia com pessoas  
+- Se alongue a cada 90 minutos  
+- Não trabalhe logo depois de acordar, se aclimate primeiro  
+
+
 
 
 
