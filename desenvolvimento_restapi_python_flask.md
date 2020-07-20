@@ -1,4 +1,4 @@
-#Introdução a REST API com Flask  
+# Introdução a REST API com Flask  
 
 - API serve para integrar serviços  
 - REST é uma arquitetura de software, todos devem responder aos mesmos métodos  
