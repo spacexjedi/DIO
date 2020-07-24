@@ -12,3 +12,6 @@
 ** SASS **  
 - Aplicações  
 
+Azure Functions  
+Github Actions   
+
